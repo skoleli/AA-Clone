@@ -1,0 +1,39 @@
+.vscode
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Unity crash reports
+sysinfo.txt
+
+# VS/JetBrains
+.vs/
+*.sln
+*.user
+*.csproj
+.idea/
+*.unityproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Addressables
+/[Aa]ssets/[Aa]ddressableAssetsData/*
+
+# Other
+*.apk
+*.aab
+*.app
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.so
